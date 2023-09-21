@@ -1,20 +1,24 @@
 body {
-  background-color: lightblue;
+  background-color: navy;
 }
 
 h1 {
-  color: darkslateblue;
+  color: black;
   text-align: center;
 }
 
 h2  {
-  color: black;
+  color: gray;
   text-align: left
+}
+h3  {
+    color: white;
+    text-align: left
 }
 p {
   font-family: verdana;
   font-size: 20px;
 }
-a:link {color: black}
+a:link {color: purple}
 a:visited {color:blueviolet}
-a:hover {color:aquamarine}
+a:hover {color: lightskyblue}
