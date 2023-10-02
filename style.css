@@ -1,5 +1,5 @@
 body {
-  background-color: navy;
+  background-color: lightblue;
 }
 
 h1 {
@@ -8,11 +8,11 @@ h1 {
 }
 
 h2  {
-  color: gray;
+  color: blue;
   text-align: left
 }
-h3  {
-    color: white;
+h3   {
+    color: firebrick;
     text-align: left
 }
 p {
@@ -21,4 +21,4 @@ p {
 }
 a:link {color: purple}
 a:visited {color:blueviolet}
-a:hover {color: lightskyblue}
+a:hover {color: navy}
